@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">. Desenvolvedor Front-End<br>. Estudando React com Typescript<br>. instituição:   rocketseat</p>
+<p align="left">. Desenvolvedor Front-End<br>. Estudando React com Typescript<br>. instituição:   rocketseat Digital College</p>
 
 ###
 
